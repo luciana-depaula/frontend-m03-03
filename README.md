@@ -17,7 +17,6 @@
 - É para existir 4 commits nesse exercício.
 - Depois de comitar, realizar o push do repositório.
 - Depois fazer o pull request do repositório do fork.
-Aranha
 </details>
 
 <details>
@@ -46,8 +45,5 @@ Aranha
 
 ![](./assets/doutor-estranho.png)
 </details>
-
-
-
 
 ###### tags: `internet` `navegação` `html` `exercícios`
