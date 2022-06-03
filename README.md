@@ -34,13 +34,13 @@ Aranha
 
 ![](./assets/index.png)
 
-> Pagina `sonic.html'
-
-![](./assets/sonic.png)
-
 > Pagina `homem-aranha.html'
 
 ![](./assets/homem-aranha.png)
+
+> Pagina `sonic-2.html'
+
+![](./assets/sonic-2.png)
 
 > Pagina `doutor-estranho.html'
 
